@@ -48,12 +48,6 @@ The HTML contains the course and needs no account or external JavaScript librari
 
 The app's in-app browser preview rejected the local-file URL. Open the delivered HTML in your own browser; this restriction does not remove any lesson content from the file.
 
-## 50-minute together lessons
-
-Each lesson now opens on a 50-minute screen-share script: warm up, words in sentences, grammar, sentence building, ask and answer, role-play, and an exit check. The earlier word, phrase, conversation, speaking and quiz steps remain. The student is not expected to open the file alone.
-
-The local JavaScript harness checked all 17 lessons, all 7 together parts, hidden Turkish on those parts, and the original 102 quiz answers. This was not a fresh visual browser test.
-
 ## Current English-first revision
 
 The current delivery replaces the language-mode interface with one English course and per-item Turkish reveal/hide buttons. Turkish support starts hidden and English remains visible when it is revealed. English vocabulary definitions and English quiz/review questions replace Turkish-first prompts.

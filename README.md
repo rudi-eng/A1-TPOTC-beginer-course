@@ -4,11 +4,9 @@ Open **Ilk-Cumlem.html** in your browser. Refresh the file if it is already open
 
 The course is in **English**. Beside lesson words, phrases, conversation lines, instructions and speaking tasks, click **Türkçe** to reveal the Turkish translation. English stays visible. Click again to hide the translation. There is no teacher/student language-mode switch.
 
-Each of the 17 lessons is a **50-minute lesson you teach together**. Share your screen. You read the English. The student speaks. The student does not use this file alone.
+All 17 lessons follow the same sequence: **Start → Words → Phrases → Conversation → Speak → Quiz**. The quizzes and review activities are also in English. Existing progress and backups remain compatible.
 
-The together lesson has seven parts: **Warm up → Words in sentences → Grammar → Build sentences → Ask & answer → Role-play → Exit check**. Words, phrases, the conversation, extra speaking tasks and the quiz stay available after that. Existing progress and backups remain compatible.
-
-Reveal Turkish only when the student needs help. Click **Türkçe**, then click again to hide it.
+For teaching: demonstrate a short phrase, invite repetition, change one detail, then ask for a fresh attempt. Reveal Turkish only when the student needs help. Teaching tips are optional expandable notes.
 
 Use **30-day plan** for scheduling and **My progress** for the same eight speaking tasks at the start and end of the month. A lesson is complete after the vocabulary, three speaking tasks and practical task are marked, and the quiz score reaches at least 5/6.
 
